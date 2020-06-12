@@ -7,7 +7,7 @@
   Author: David Angulo
   Author URI: https://www.davidangulo.xyz/
   Requires at least: 5.4
-  Tested Up to: 5.4.1
+  Tested Up to: 5.4.2
   License: GPL2
 */
 
