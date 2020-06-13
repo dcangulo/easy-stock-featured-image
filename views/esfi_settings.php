@@ -72,13 +72,12 @@
           <p class='description'><strong>Once this plugin adds featured images, it cannot be undone. Use it carefully.</strong></p>
         </td>
       </tr>
-      <tr>
-        <td colspan='2'>
-          <strong>For more info:</strong>
-          <a href='https://source.unsplash.com/' target='_blank'>https://source.unsplash.com/</a>
-        </td>
-      </tr>
     </table>
+
+    <p>
+      <strong>For more info:</strong>
+      <a href='https://source.unsplash.com/' target='_blank'>https://source.unsplash.com/</a>
+    </p>
 
     <?php submit_button(); ?>
   </form>
