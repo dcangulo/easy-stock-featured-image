@@ -1,3 +1,5 @@
+![](assets/screenshot-1.jpg)
+
 # Easy Stock Featured Image
 [![GitHub version](https://img.shields.io/wordpress/plugin/v/easy-stock-featured-image?color=brightgreen&style=for-the-badge)](https://wordpress.org/plugins/easy-stock-featured-image/)
 [![GPLv2 license](https://img.shields.io/badge/License-GPLv2-blue.svg?style=for-the-badge)](LICENSE)
