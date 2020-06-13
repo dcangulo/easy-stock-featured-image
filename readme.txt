@@ -34,6 +34,11 @@ Find my other works here: [https://www.davidangulo.xyz/portfolio/](https://www.d
 
 Do you have any question/s? You may contact me using the email [hello@davidangulo.xyz](mailto:hello@davidangulo.xyz)
 
+== Screenshots ==
+
+1. Easy Stock Featured Image running on Twenty Twenty theme.
+2. Easy Stock Featured Image settings and preferences.
+
 == Changelog ==
 
 = 0.1.0.0 =

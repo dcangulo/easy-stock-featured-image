@@ -31,5 +31,10 @@ composer require wpackagist-plugin/easy-stock-featured-image
 ## Frequently Asked Questions
 Do you have any question/s? You may contact me using the email [hello@davidangulo.xyz](mailto:hello@davidangulo.xyz)
 
+## Screenshots
+
+1. [Easy Stock Featured Image running on Twenty Twenty theme](assets/screenshot-1.jpg).
+2. [Easy Stock Featured Image settings and preferences](assets/screenshot-2.jpg).
+
 ## License
 Copyright © 2020 David Angulo, released under the GPL2 license, see [LICENSE](LICENSE).
