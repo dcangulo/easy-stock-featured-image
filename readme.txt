@@ -1,9 +1,9 @@
 === Easy Stock Featured Image ===
 Contributors: dcangulo
-Plugin URI: https://www.davidangulo.xyz/portfolio/easy-stock-featured-image/
+Plugin URI: https://github.com/dcangulo/easy-stock-featured-image
 Tags: featured image, thumbnail, thumbnails, stock, stock photos
 Requires at least: 5.4
-Tested up to: 5.4.2
+Tested up to: 5.9.0
 Requires PHP: 7.2
 Stable tag: trunk
 License: GPL2
@@ -40,6 +40,9 @@ Do you have any question/s? You may contact me using the email [hello@davidangul
 2. Easy Stock Featured Image settings and preferences.
 
 == Changelog ==
+
+= 1.0.0 =
+* Test against WordPress 5.9.0.
 
 = 0.1.0.0 =
 * Initial release.
